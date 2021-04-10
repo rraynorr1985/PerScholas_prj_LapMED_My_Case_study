@@ -1,1 +1,2 @@
 # PerScholas_prj_LapMED
+System will help to provide customer features to store all his medical info in one place, including his medical history, documents, his last visit dates, also customer might easy transfer to other doctor, or request “other opinion”, without losing any medical history information, valuable medical procedures results. Besides, it will provide to customer clear and understandable information about pricing, in case if customer want to pay out-of-pocket, and searching affordable Medical Care.
